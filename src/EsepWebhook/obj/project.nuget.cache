@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bmXRG1psnG0eR8XtNh2jhsKo4WqmLw/xE38ad87ynsWLV8OImbfKnDBS+s+U1q5nXeESFYT6AjlP+X57AIlawA==",
+  "success": true,
+  "projectFilePath": "/Users/TylerHaisman/Library/CloudStorage/OneDrive-Personal/UF/CIS4930/event-driven_architecture/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/TylerHaisman/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/TylerHaisman/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/TylerHaisman/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.3/microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "/Users/TylerHaisman/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.3/microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "/Users/TylerHaisman/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.3/microsoft.netcore.app.crossgen2.osx-arm64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
